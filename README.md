@@ -27,8 +27,14 @@ Design, Implement and Validate an Object-Oriented Model for a Campus Smart-Parki
 ## Project Structure
 Each task will have its own folder containing Java source code and output screenshots.
 
-## Execution
-Each Java program will be compiled and executed, and its output will be documented.
+## How to Compile and Run
+1. Open the TaskXX folder and download the .java file.
+2. Compile: javac FileName.java
+3. Run: java ClassName
+Example (Task 03): javac ParkingFacility.java, then java ParkingFacility
+Example (Task 08): javac FeeDemo.java, then java FeeDemo
 
 ## Results
-Results and test evidence will be added for all tasks.
+- Task 03: ParkingFacility runs and prints the expected output. Slots are allocated floor by floor and released correctly.
+- Task 08: FeeDemo prints TwoWheeler Rs 30.0, Car Rs 90.0, ElectricCar Rs 210.0 and true.
+- Other tasks: results will be added as each task is completed.
